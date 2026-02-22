@@ -1,4 +1,6 @@
 # only_up
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CxoO-p75pg8?si=jG7sECuOzhvHIBXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This is the gameplay video 
+
+https://youtu.be/CxoO-p75pg8
